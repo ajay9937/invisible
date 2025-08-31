@@ -1,2 +1,2 @@
 # invisible
-compuetr vision project in python for invisibility. <br> author: ajay
+compuetr vision project in python for invisibility. <br> author: ajay kumar
